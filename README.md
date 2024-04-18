@@ -2,6 +2,7 @@ README
 BY-AYUSHI SINGH(B22CH005)
 
 Analysis of Filtering Type Using Convolution and Correlation
+
 The objective of this analysis is to determine the type of filtering applied to an input signal x(t) by comparing the filtered outputs with the given output signal y(t) using convolution and correlation.
 Usage Explanation:
 Functions 
